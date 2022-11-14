@@ -24,14 +24,14 @@ paginator_pages = "9"
 #logo = ""
 
   [params.homepage_meta_tags]
-    meta_description = "Showcase site for Whistler works."
+    meta_description = "Systemware® intranet server for Whistler builds."
     meta_og_title = "main Catalog"
     meta_og_type = "website"
     meta_og_url = "https://main.whistler.page"
-    meta_og_image = "https://main.whistler.page/img/thumbnail.png"
-    meta_og_description = "http://main.whistler.page/"
+    meta_og_image = "https://main.whistler.page/img/setup.png"
+    meta_og_description = "Systemware® intranet server for Whistler builds."
     meta_twitter_card = "summary_large_image"
-    meta_twitter_site = "@wistlyr"
+    meta_twitter_site = "https://main.whistler.page"
     meta_twitter_creator = "@wistlyr"
 
 
