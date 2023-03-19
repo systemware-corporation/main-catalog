@@ -4,7 +4,7 @@ author: "wistlyr"
 description: "The building hungers. Who's even trustworthy?"
 categories: ["rcp"]
 tags: ["horror"]
-date: 2022-11-10
+date: 2023-03-18
 draft: false
 ---
 
@@ -15,12 +15,13 @@ RCP is a long story, and will be generated slowly over time.
 ---
 
 ## Releases
-*Last update: 2022/11/10. Generation started 2021/09/24.*
+*Last update: 2023/03/18. Generation started 2021/09/24.*
 
 **v0.1** - "Mere Hours Till"
 - v0.1.1: [Download (PDF)](https://main.whistler.page/txt/RCP_v0.1.1.pdf)
 - v0.1.2: [Download (PDF)](https://main.whistler.page/txt/RCP_v0.1.2.pdf)
-- v0.1.3: *Currently generating.*
+- v0.1.3: [Download (PDF)](https://main.whistler.page/txt/RCP_v0.1.3.pdf)
+- v0.1.4: *Build in progress...*
 
 ---
 
