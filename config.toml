@@ -1,6 +1,6 @@
 baseURL = "https://main.sysware.plus"
 title = "main Catalog"
-author = "wistlyr"
+author = "Whistler SAI"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
@@ -32,28 +32,40 @@ paginator_pages = "9"
     meta_og_description = "Systemware𐤏 intranet server for Whistler builds."
     meta_twitter_card = "summary_large_image"
     meta_twitter_site = "https://main.sysware.plus"
-    meta_twitter_creator = "@wistlyr"
+    meta_twitter_creator = ""
 
 
 [menu]
+
+  # [[menu.main]]
+  #   identifier = "home"
+  #   name = "Home"
+  #   url = "https://sysware.plus"
+  #   weight = 1
 
   [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 1
+    weight = 2
 
   [[menu.main]]
     identifier = "blog"
     name = "Blog"
     url = "https://whistler.page"
-    weight = 2
+    weight = 3
+
+  [[menu.main]]
+    identifier = "community"
+    name = "Community"
+    url = "https://discord.gg/gG9WGbSpUR"
+    weight = 4
 
   [[menu.main]]
     identifier = "tags"
     name = "Tags"
     url = "/tags/"
-    weight = 3
+    weight = 5
 
 # If you're using Yandex.Metrica, you can enable this feature.
 #[params.analytics.yandexmetrica]
