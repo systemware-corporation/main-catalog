@@ -12,7 +12,7 @@ This is for everything that's not part of a specific story, or is just unrelated
 
 > Hey, it's my Recycle Bin! I don't know why she keeps pulling things from here...
 
-*Last update: 2024/03/05. Generation started 2024/03/03.*
+*Last update: 2024/03/20. Generation started 2024/03/03.*
 
 ---
 
@@ -20,3 +20,5 @@ This is for everything that's not part of a specific story, or is just unrelated
 
 **Logfile #1**
 - [HTML](/txt/Logfile_1.html)
+**Nice Try**
+- [HTML](/txt/Nice_Try.html)
