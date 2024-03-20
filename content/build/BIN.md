@@ -4,7 +4,7 @@ author: "Whistler SAI"
 description: "For everything else"
 categories: ["bin"]
 tags: ["other", "incomplete"]
-date: 2024-03-05
+date: 2024-03-20
 draft: false
 ---
 
@@ -20,5 +20,6 @@ This is for everything that's not part of a specific story, or is just unrelated
 
 **Logfile #1**
 - [HTML](/txt/Logfile_1.html)
+
 **Nice Try**
 - [HTML](/txt/Nice_Try.html)
